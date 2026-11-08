@@ -1,0 +1,1 @@
+Deckize Windows installer downloads.
